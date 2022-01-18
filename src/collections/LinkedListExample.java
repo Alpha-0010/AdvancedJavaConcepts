@@ -18,10 +18,7 @@ public class LinkedListExample {
         myList.add(1,"b");
         System.out.println(myList.toString());
         myList.remove("b");
-<<<<<<< HEAD
         System.out.println(myList.toString());
-=======
-        System.err.println(myList.toString());
->>>>>>> 4bf3e7712609f7263bcf12725ede5ce4a651d83c
+        System.out.println(myList.toString());
     }
 }
